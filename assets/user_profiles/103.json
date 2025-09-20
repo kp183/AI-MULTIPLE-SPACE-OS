@@ -1,0 +1,23 @@
+{
+    "username": "103",
+    "age": 1,
+    "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "app_usage": {},
+    "usage_counts": {
+        "Notes": 3,
+        "Gallery": 3,
+        "Games": 7,
+        "Creative Canvas": 2,
+        "Learning Zone": 6,
+        "Story Time": 1,
+        "Photo Album": 1,
+        "My Notes": 2
+    },
+    "last_opened_app": "Learning Zone",
+    "streak": {
+        "app": "Learning Zone",
+        "len": 5
+    },
+    "wallpaper": null,
+    "reminders": []
+}

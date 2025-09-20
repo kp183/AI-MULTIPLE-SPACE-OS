@@ -1,0 +1,23 @@
+{
+    "username": "102",
+    "age": 21,
+    "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "app_usage": {},
+    "usage_counts": {
+        "Notes": 2,
+        "Gallery": 1,
+        "Workspace": 7,
+        "Mail": 3,
+        "Finance Tracker": 3,
+        "Digital Wellbeing": 3,
+        "Wellbeing": 2,
+        " Wellbeing": 1
+    },
+    "last_opened_app": "Workspace",
+    "streak": {
+        "app": "Workspace",
+        "len": 1
+    },
+    "wallpaper": null,
+    "reminders": []
+}
