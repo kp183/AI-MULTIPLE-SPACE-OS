@@ -1,4 +1,4 @@
-# 🚀 AI Dual-Space OS – Simulated Mobile Operating System
+# 🚀 AI -Space OS – Simulated Mobile Operating System
 
 🔥 **A Smart, Secure & AI-Powered OS with Next-Level Biometrics and Personalization**
 
@@ -136,4 +136,5 @@ streamlit run app.py
 
 ---
 
-> **Have ideas or feedback? Create an issue or connect with us!**
+
+
