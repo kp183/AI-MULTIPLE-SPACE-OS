@@ -118,5 +118,9 @@ AI Feed shows personalized cards (reminders, streaks, nudges).
 
 🧠 More advanced AI personalization
 
-👨‍💻 Authors
-Built with ❤️ by Kunal
+## 👨‍💻 Authors
+
+- **Kunal** – Lead Developer, System Architecture, Core Features (Multi-User Spaces, Biometrics, Smart Launcher, AI Feed, Age-Adaptive Apps, etc.)
+- **Krishna** – Co-Developer, Voice Assistant Integration, AI Assistant Features, and Idea Co-Creation
+
+💡 The idea and project were envisioned and built together by **Kunal & Krishna**.
