@@ -1,4 +1,4 @@
-# 🚀 AI -Space OS – Simulated Mobile Operating System
+# 🚀 AI-Multiple-Space-OS – Simulated Mobile Operating System
 
 🔥 **A Smart, Secure & AI-Powered OS with Next-Level Biometrics and Personalization**
 
@@ -6,9 +6,9 @@
 
 ## 💡 Overview
 
-**AI Dual-Space OS** is a cutting-edge prototype reimagining mobile operating systems for shared family devices. Built in **Python + Streamlit**, it tackles the challenge of **privacy, security, and personalization** by creating a unique, persistent, and adaptive **digital space** for every user.
+**AI-Multiple-Space-OS** is a cutting-edge prototype reimagining mobile operating systems for shared family devices. Built in **Python + Streamlit**, it tackles the challenge of **privacy, security, and p[...]
 
-### Why AI Dual-Space OS?
+### Why AI-Multiple-Space-OS?
 
 - 🛡️ **True Multi-User Privacy**: Each user gets a secure, isolated digital environment.
 - 🤖 **AI-Driven Biometrics**: Effortless login with **face recognition (DeepFace)** and PIN fallback.
